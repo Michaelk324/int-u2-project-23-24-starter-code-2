@@ -11,14 +11,14 @@ h1 {
 h2 {
     text-align:center;
 }
-.Background{
+.Text{
   font-size: 26px;
 }
 /*  section container */
 .section-container {
     display:flex;
     justify-content:space-between;
-  
+    
 }
 
 /* section control */
@@ -27,7 +27,11 @@ h2 {
     margin:5px;
    width: 600px;
   background-color: #9fe3e1;
+   border-radius: 25px;
+  padding: 10px;
+
 }
+  
 
 /* Images */
 
@@ -36,7 +40,7 @@ img{
      display: block;
      margin-left: auto;
      margin-right: auto;
-     
+     border-radius: 25px;
    }
 
 .img2{
