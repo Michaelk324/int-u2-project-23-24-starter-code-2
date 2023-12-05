@@ -31,8 +31,14 @@ h2 {
   padding: 10px;
 
 }
-  
 
+/* Navigation Bar */
+ul {
+  padding: 16px;
+  background-color: #8ab1d4;
+  float: left;
+  display: inline;
+}
 /* Images */
 
 img{
